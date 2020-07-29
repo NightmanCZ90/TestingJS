@@ -30,5 +30,3 @@ it('The map function', () => {
 
   assert.deepStrictEqual(result, [2,4,6]);
 });
-
-
